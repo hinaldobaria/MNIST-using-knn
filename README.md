@@ -30,6 +30,6 @@ The MNIST dataset is a collection of 28x28 pixel grayscale images of handwritten
 - The KNN model achieves an accuracy of approximately **97%** on the MNIST test dataset. For detailed results and plots, refer to the mnist_knn.ipynb.
 
 ### References
-MNIST Dataset : MNIST in CSV 
-K-Nearest Neighbors Algorithm
-Kaggle Notebook: MNIST using KNN - 97
+-MNIST Dataset : MNIST in CSV 
+-K-Nearest Neighbors Algorithm
+-Kaggle Notebook: MNIST using KNN - 97
